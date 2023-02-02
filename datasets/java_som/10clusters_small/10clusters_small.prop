@@ -1,0 +1,17 @@
+#10clusters_small prop file
+# somtoolbox [GrowingSOM, --numberWinners, 300, --cpus, 16, 
+#   /home/peter/tu/sos/exercises/exercise3/10clusters_small.prop]
+#
+#Tue Jan 31 09:53:16 CET 2023
+namePrefix=10clusters_small
+vectorFileName=/home/peter/tu/sos/exercises/exercise3/PySOMVisDendro/PySOMVis/datasets/10clusters/10clusters.vec
+outputDirectory=/home/peter/tu/sos/exercises/exercise3
+tau=1.0
+sparseData=no
+learnRate=0.7
+workingDirectory=/home/peter/tu/sos/exercises/exercise3
+isNormalized=no
+numIterations=15000
+randomSeed=7
+ySize=10
+xSize=10
